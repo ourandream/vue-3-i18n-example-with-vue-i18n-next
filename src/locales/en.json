@@ -1,5 +1,5 @@
 {
   "title": "Vue 3 i18n",
   "description": "A Vue i18n next example using vue-i18n-next",
-  "testNew:" "test new source string!"
+  "testNew": "test new source string!"
 }
