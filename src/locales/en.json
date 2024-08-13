@@ -4,5 +4,8 @@
   "testNew": "test new source string!",
   "testNew2": "test new source string!",
   "testAuto": "test auto source string!",
-  "testAuto2": "test auto source string2!"
+  "testAuto2": "test auto source string2!",
+  "b":{
+    "c": "abc"
+  }
 }
