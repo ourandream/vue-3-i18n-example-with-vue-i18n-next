@@ -3,5 +3,6 @@
   "description": "A Vue i18n next example using vue-i18n-next",
   "testNew": "test new source string!",
   "testNew2": "test new source string!",
+  "testAuto": "test auto source string!",
   "testAuto": "test auto source string!"
 }
